@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=fscoward&color=3a8daa)
+
+
 - 👋 Hi, I’m @FScoward
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
