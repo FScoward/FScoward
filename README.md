@@ -10,6 +10,7 @@
 - 📫 How to reach me ...
 
 https://scrapbox.io/fscoward/
+
 https://note.com/fscoward
 
 <!---
