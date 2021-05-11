@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?username=fscoward&color=3a8daa)
-
+![](https://komarev.com/ghpvc/?username=fscoward&color=3a8daa) ![](https://img.shields.io/twitter/follow/fscoward?style=social)
 
 - 👋 Hi, I’m @FScoward
 - 👀 I’m interested in ...
